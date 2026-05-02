@@ -9,7 +9,7 @@ Path: /restaurant/
 List/Create items: /restaurant/menu/
 Single item operations: /restaurant/menu/<id>
 
-3. Table Booking API (GET, POST, PUT, DELETE) - *Requires Authentication*
+3. Table Booking API (GET, POST, PUT, DELETE)
    
 Path: /restaurant/booking/tables/
 
